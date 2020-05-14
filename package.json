@@ -1,0 +1,19 @@
+{
+  "name": "pink-percival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cb4000/pink-percival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cb4000/pink-percival/issues"
+  },
+  "homepage": "https://github.com/cb4000/pink-percival#readme"
+}
