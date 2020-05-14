@@ -2,4 +2,4 @@
 echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
 
 docker build -t pink-percival:latest .
-docker push cbloun2/pink-percival
+docker push cbloun2/pink-percival:latest
