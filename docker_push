@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "$DOCKER_PASSWORD" | docker login  docker.io -u "$DOCKER_USERNAME" --password-stdin
+
+docker build -t clblount9/pink-percival:latest .
+docker push clblount9/pink-percival:latest
