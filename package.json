@@ -1,0 +1,27 @@
+{
+  "name": "pink-percival",
+  "version": "1.0.0",
+  "description": "Front-end api for nlp results retrieval",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "redis-redisearch": "^1.0.1",
+    "redisearchclient": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cb4000/pink-percival.git"
+  },
+  "author": "Charles Blount",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cb4000/pink-percival/issues"
+  },
+  "homepage": "https://github.com/cb4000/pink-percival#readme"
+}
