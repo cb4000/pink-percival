@@ -4,7 +4,7 @@
   "description": "Front-end api for nlp results retrieval",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "redis": "^3.0.2",
     "redis-redisearch": "^1.0.1",
     "redisearchclient": "^1.0.1"
